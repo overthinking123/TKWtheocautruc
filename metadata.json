@@ -1,0 +1,6 @@
+{
+  "name": "ElectroStore - Cửa Hàng Đồ Điện Tử",
+  "description": "Website bán đồ điện tử hiện đại, dễ sử dụng được cấu trúc chuẩn Semantic HTML5 (header, nav, main, section, article, aside, footer).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
